@@ -13,7 +13,7 @@ Gambar Wilayah Pickup Passenger Green Taxi | Sumber: [Astoria Loves Those Green 
 Namun, taksi hijau boleh masuk Manhattan untuk menurunkan penumpang, tetapi tidak boleh mengambil penumpang di jalan di daerah pusat Manhattan (di bawah batasan East 96th Street dan West 110th Street). Penumpang di Manhattan di luar batas ini bisa dijemput. Jadi, meskipun taksi hijau dapat melewati Manhattan atau menurunkan penumpang di sana, aturan utamanya adalah mereka tidak diperbolehkan mengambil penumpang di pusat Manhattan dari East 96th Street ke bawah.
 
 ## 📊 Dataset
-- ** 🌍 Sumber Data**: TLC Trip Record Data
+- **🌍 Sumber Data**: TLC Trip Record Data
   (TLC : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page | zone coordinates of NYC Yellow Taxi Trip Records: https://www.kaggle.com/datasets/yzhoukaggle/zone-coordinates-of-nyc-yellow-taxi-trip-records?select=taxi_zone_lookup_coordinates.csv)
 - **Periode**: Januari – Juli 2024
 
