@@ -6,8 +6,8 @@ Proyek ini menganalisis data perjalanan taksi hijau (Green Taxi) di New York Cit
 **Apa itu Green Taxi di New York City?**
 
 ![image](https://github.com/user-attachments/assets/3b78a8ed-ee59-4e90-86bf-569e0ae0d2be)
-Gambar Wilayah Pickup Passenger Green Taxi | Sumber: [Astoria Loves Those Green Taxis](https://weheartastoria.com/2014/06/astoria-loves-those-green-taxis/)
 
+Gambar Wilayah Pickup Passenger Green Taxi | Sumber: [Astoria Loves Those Green Taxis](https://weheartastoria.com/2014/06/astoria-loves-those-green-taxis/)
 
   Pada musim panas tahun 2013, Kota New York membuat program untuk mengurangi kesenjangan layanan taksi di wilayah yang jarang dikunjungi di NYC — Harlem, Queens, Bronx, dan Brooklyn (serta bagian utara Manhattan di atas East 96th Street dan West 110th Street). Program baru ini meluncurkan Green Taxi di NYC yang secara resmi dikenal sebagai Boro Taxis.
 Namun, taksi hijau boleh masuk Manhattan untuk menurunkan penumpang, tetapi tidak boleh mengambil penumpang di jalan di daerah pusat Manhattan (di bawah batasan East 96th Street dan West 110th Street). Penumpang di Manhattan di luar batas ini bisa dijemput. Jadi, meskipun taksi hijau dapat melewati Manhattan atau menurunkan penumpang di sana, aturan utamanya adalah mereka tidak diperbolehkan mengambil penumpang di pusat Manhattan dari East 96th Street ke bawah.
